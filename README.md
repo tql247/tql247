@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My contact info:
+Phone: 0943493916
+Email: tqlinh.exe@gmail.com or linhtq.tech@gmail.com
+Linkedin: https://www.linkedin.com/in/linh-tran-quoc-63b4041ab/
+Skype: live:d33fc0a53a1e2b37
 
 <!--
 **tql247/tql247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
