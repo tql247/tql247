@@ -62,7 +62,7 @@
 
 
 <a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tql247&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></a>
 ---
 
 [twitter]: https://twitter.com/LeeLinh44585460
