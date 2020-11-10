@@ -1,11 +1,12 @@
-### Hi there 👋
-```
-My contact info:
-Phone: 0943493916
-Email: tqlinh.exe@gmail.com or linhtq.tech@gmail.com
-Linkedin: https://www.linkedin.com/in/linh-tran-quoc-63b4041ab/
-Skype: live:d33fc0a53a1e2b37
-```
+### Hi! My name is Tran Quoc Linh 👋
+
+### Connect with me:
+
+[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **tql247/tql247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
