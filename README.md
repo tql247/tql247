@@ -47,6 +47,9 @@
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
+<img alt="Yarn" width="26px" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true">
+</code>](https://yarnpkg.com/)
+[<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
