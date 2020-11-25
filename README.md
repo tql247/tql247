@@ -1,5 +1,5 @@
 ### Hi there, my name is Tran Quoc Linh
-### I'm a Student, Undergraduate, Fullstack Developer! 👋
+### I'm a Fullstack Developer! 👋
 
 
 
